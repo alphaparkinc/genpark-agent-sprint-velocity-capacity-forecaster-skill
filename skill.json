@@ -1,0 +1,20 @@
+{
+  "name": "genpark-agent-sprint-velocity-capacity-forecaster-skill",
+  "version": "1.0.0",
+  "description": "Agile engineering sprint capacity and bottleneck forecaster simulating commitment feasibility, PTO impact, and technical debt risk distribution",
+  "category": "Service",
+  "dependencies": [],
+  "topics": [
+    "mcp",
+    "sprint-planner",
+    "velocity-forecasting",
+    "capacity-planner",
+    "agile-engineering",
+    "workplace-agent",
+    "autonomous-agents",
+    "python-standard-library",
+    "agent-skills",
+    "scrum-optimization",
+    "zero-dependency"
+  ]
+}
